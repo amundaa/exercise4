@@ -1,0 +1,2 @@
+/home/amundaa/sd/ex4/Debug/CMakeFiles/common.dir
+/home/amundaa/sd/ex4/Debug/CMakeFiles/main.dir

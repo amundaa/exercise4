@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/amundaa/sd/ex4/common.h
+
+/home/amundaa/sd/ex4/main.c
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+common.h
+/home/amundaa/sd/ex4/common.h
+sys/time.h
+-
+omp.h
+-
+

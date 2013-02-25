@@ -1,0 +1,2 @@
+/home/amundaa/sd/exercise4/Release/CMakeFiles/common.dir
+/home/amundaa/sd/exercise4/Release/CMakeFiles/main.dir

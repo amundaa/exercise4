@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/amundaa/sd/exercise4/common.c
+stdlib.h
+-
+common.h
+/home/amundaa/sd/exercise4/common.h
+
+/home/amundaa/sd/exercise4/common.h
+

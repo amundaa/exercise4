@@ -1,0 +1,1 @@
+/home/amundaa/sd/exercise4/test/Debug/CMakeFiles/testomp.dir

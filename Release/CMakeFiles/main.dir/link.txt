@@ -1,0 +1,1 @@
+/usr/bin/gcc   -std=c99 -fopenmp    CMakeFiles/main.dir/main.c.o  -o main -rdynamic -lm libcommon.a 

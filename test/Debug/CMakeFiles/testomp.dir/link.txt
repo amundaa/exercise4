@@ -1,0 +1,1 @@
+/usr/bin/gcc   -std=c99 -fopenmp -DHAVE_OPENMP=1    CMakeFiles/testomp.dir/test.c.o  -o testomp -rdynamic 
